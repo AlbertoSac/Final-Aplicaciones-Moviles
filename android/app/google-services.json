@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "479114327571",
+    "project_id": "integradora-942d6",
+    "storage_bucket": "integradora-942d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479114327571:android:0c7d3cbbb6fc18ea5a31e6",
+        "android_client_info": {
+          "package_name": "com.example.integradora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479114327571-3nh323idij0tg8q2kd5q6173acghl6ll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.integradora",
+            "certificate_hash": "1231231231231231231231231231231231231231"
+          }
+        },
+        {
+          "client_id": "479114327571-8mdihvbaqomtj9h89258stgdjjniqm0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi9ZZPgsGnP8MtZetBM3Cvb8-VWGxdssw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479114327571-8mdihvbaqomtj9h89258stgdjjniqm0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
